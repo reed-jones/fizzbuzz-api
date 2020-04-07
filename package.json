@@ -1,4 +1,11 @@
 {
+  "name": "fizzbuzz-api",
+  "version": "0.0.1-alpha.0",
+  "description": "best api",
+  "main": "index.js",
+  "repository": "git@github.com:reed-jones/fizzbuzz-api.git",
+  "author": "Reed Jones <reedjones@reedjones.com>",
+  "license": "WTFPL",
   "devDependencies": {
     "@now/node": "^1.5.0"
   }
